@@ -52,5 +52,5 @@ To get started with this project, you need Python 3.8+ and the required dependen
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/biased-discriminant-lane-detection.git
-cd biased-discriminant-lane-detection
+git clone https://github.com/yourusername/Biased Discriminant Analysis for Lane Detection in Adverse Weather Conditions.git
+cd Biased Discriminant Analysis for Lane Detection in Adverse Weather Conditions
