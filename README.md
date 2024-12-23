@@ -45,6 +45,9 @@ The **Hat Kernel** is designed with a structural feature where the middle row is
 ### 3. Biased Discriminant Analysis
 **Biased Discriminant Analysis (BDA)** calculates the average grayscale value around each pixel to extract it as a feature vector. A covariance matrix is computed for both the target and non-target classes, and a bias-weighted decision boundary is derived to classify the target class (lane pixels) from other classes.
 
+
+![image](https://github.com/user-attachments/assets/fdd360d0-9eef-4d26-ad22-613bf5ae6569)
+
 ## Installation
 
 To get started with this project, you need Python 3.8+ and the required dependencies installed.
